@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vijay-361/dsa-cpp/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vijay-361/dsa-cpp/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vijay-361/dsa-cpp/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
