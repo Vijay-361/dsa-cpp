@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vijay-361/dsa-cpp/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vijay-361/dsa-cpp/tree/master/0219-contains-duplicate-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vijay-361/dsa-cpp/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Math
 |  |
@@ -53,6 +54,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vijay-361/dsa-cpp/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Vijay-361/dsa-cpp/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Vijay-361/dsa-cpp/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vijay-361/dsa-cpp/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vijay-361/dsa-cpp/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Vijay-361/dsa-cpp/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/Vijay-361/dsa-cpp/tree/master/0219-contains-duplicate-ii) |
 ## Rolling Hash
 |  |
 | ------- |
