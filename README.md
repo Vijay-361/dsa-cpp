@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vijay-361/dsa-cpp/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vijay-361/dsa-cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vijay-361/dsa-cpp/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -38,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vijay-361/dsa-cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vijay-361/dsa-cpp/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
