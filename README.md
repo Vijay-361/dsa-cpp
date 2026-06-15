@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vijay-361/dsa-cpp/tree/master/0217-contains-duplicate) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vijay-361/dsa-cpp/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Math
 |  |
@@ -51,6 +52,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vijay-361/dsa-cpp/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Vijay-361/dsa-cpp/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/Vijay-361/dsa-cpp/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vijay-361/dsa-cpp/tree/master/0187-repeated-dna-sequences) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Vijay-361/dsa-cpp/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
