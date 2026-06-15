@@ -45,4 +45,16 @@
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vijay-361/dsa-cpp/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Vijay-361/dsa-cpp/tree/master/0030-substring-with-concatenation-of-all-words) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Vijay-361/dsa-cpp/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Vijay-361/dsa-cpp/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
