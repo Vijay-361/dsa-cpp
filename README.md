@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/Vijay-361/dsa-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vijay-361/dsa-cpp/tree/master/0219-contains-duplicate-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Vijay-361/dsa-cpp/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Vijay-361/dsa-cpp/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vijay-361/dsa-cpp/tree/master/0217-contains-duplicate) |
+## Queue
+|  |
+| ------- |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Vijay-361/dsa-cpp/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Vijay-361/dsa-cpp/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
