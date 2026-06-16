@@ -61,6 +61,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vijay-361/dsa-cpp/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Vijay-361/dsa-cpp/tree/master/0187-repeated-dna-sequences) |
+| [3612-process-string-with-special-operations-i](https://github.com/Vijay-361/dsa-cpp/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Vijay-361/dsa-cpp/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Vijay-361/dsa-cpp/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
