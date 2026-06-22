@@ -56,11 +56,13 @@
 | [0187-repeated-dna-sequences](https://github.com/Vijay-361/dsa-cpp/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Vijay-361/dsa-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vijay-361/dsa-cpp/tree/master/0219-contains-duplicate-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Vijay-361/dsa-cpp/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vijay-361/dsa-cpp/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Vijay-361/dsa-cpp/tree/master/0187-repeated-dna-sequences) |
+| [1189-maximum-number-of-balloons](https://github.com/Vijay-361/dsa-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Vijay-361/dsa-cpp/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Vijay-361/dsa-cpp/tree/master/3612-process-string-with-special-operations-i) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Vijay-361/dsa-cpp/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
